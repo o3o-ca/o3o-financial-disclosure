@@ -4,8 +4,8 @@
 
 We will attempt our best to update monthly for the following:
 
-- [2022 Donation Records](https://codeberg.org/o3o/o3o-financial-disclosure/src/branch/master/2022_donation_records_CAD.csv)
-- [2022 Budget](https://codeberg.org/o3o/o3o-financial-disclosure/src/branch/master/2022_budget_CAD.csv)
+- [2022 Donation Records](https://codeberg.org/o3o/o3o-financial-disclosure/src/branch/main/2022_donation_records_CAD.csv)
+- [2022 Budget](https://codeberg.org/o3o/o3o-financial-disclosure/src/branch/main/2022_budget_CAD.csv)
 
 ## Year-end Financial Statements
 
